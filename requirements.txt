@@ -1,0 +1,4 @@
+beautifulsoup4==4.9.3
+Pillow==8.2.0
+soupsieve==2.2.1
+unicode==2.8
