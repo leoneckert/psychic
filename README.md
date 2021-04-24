@@ -1,5 +1,6 @@
 # psychic
 
+[DOWNLOAD](https://github.com/leoneckert/psychic/raw/main/Psychic.zip)
 
 ![img](1.jpg)
 ```
